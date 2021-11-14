@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+## Purpose 
+The overall purpose of this analysis is to provide a potential traveler with a travel route between four cities for a vacation trip. In the first part of the analysis, 2,000 random coordinates were generated to produce a list of cities; from this data a travel destination map was created that included the current weather information. Finally, the analysis created a travel route between four cities that also provided information on hotel and weather conditions. The analysis eliminated the time the customer had to commit to generate all the necessary information to create an itinerary. The itinerary search was developed based on the customers weather preference they input in the analysis. 
